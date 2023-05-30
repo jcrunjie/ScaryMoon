@@ -1,5 +1,6 @@
 # ScaryMoon
-A simple and fun visualization simulating a Moon Fall -- Moon crashing towards you: https://jcrunjie.github.io/ScaryMoon/
+A simple and fun visualization simulating a Moon Fall— Moon crashing towards you: https://jcrunjie.github.io/ScaryMoon/
+
 Made with the help of ChatGPT
 
 ## This visualization is inspired by my dream:
