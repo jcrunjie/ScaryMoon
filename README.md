@@ -3,7 +3,7 @@ A simple and fun visualization simulating a Moon Fall— Moon crashing towards y
 
 Made with the help of ChatGPT
 
-## This visualization is inspired by my dream one night:
+## This visualization is inspired by my dream/nightmare:
 
 On a seemingly ordinary night, I gaze up at the starry sky. A full moon casts its glow, but there is something unsettling about it: The moon shines in a golden hue, more prominent than usual, and its size looms larger than ever before. As I fixate on the moon's mesmerizing presence, I notice something extraordinary—it is in motion. This revelation strikes me as odd, for I have always known the moon to be relatively stationary, slowly traversing its orbit around the Earth. However, tonight, its movement seems perceptible, almost as if time itself has quickened.
 
