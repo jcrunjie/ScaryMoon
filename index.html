@@ -25,7 +25,7 @@
     let moon_size = 60;
     let moon_growth_factor = 1.5;
 
-    let moon_x = -moon_size;
+    let moon_x = screen_width + moon_size;
     let moonEntered = false;
 
     let wait_time = 3000;
@@ -65,12 +65,12 @@
         previousTime = currentTime;
 
         let speed = (screen_width + moon_size) / wait_time;
-        moon_x += speed * deltaTime;
+        moon_x -= speed * deltaTime;
 
         // Check if the moon has moved off the screen
-        if (moon_x > screen_width + moon_size) {
+        if (moon_x < -moon_size) {
           // Reset the moon position
-          moon_x = -moon_size;
+          moon_x = screen_width + moon_size;
           moonEntered = false;
 
           // Increase the moon size exponentially
